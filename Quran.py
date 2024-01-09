@@ -44,5 +44,4 @@ def app():
         <p>جميع الحقوق محفوظه</p>
     """).style('direction:rtl; text-align:right;')
 
-start_server(app, port=2828, debug=True)
 
